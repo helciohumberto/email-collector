@@ -117,3 +117,4 @@ Este script foi desenvolvido para fins educacionais. Não nos responsabilizamos 
 ```
 
 Se precisar de alguma modificação, é só avisar! 😊# email-collector
+# email-collector
